@@ -1,0 +1,1 @@
+/Users/preetibhandari/IdeaProjects/Kotlin Koans/Introduction/String templates/build/classes/java/main/TaskKt.class
